@@ -1,0 +1,19 @@
+@import '@/uni_modules/uni-scss/variables.scss';
+@import '@/uni_modules/uview-ui/theme.scss';
+
+uni-app{
+	min-width: 750rpx;
+	max-width: 970rpx;
+	font-family: system-ui;
+}
+.g-app {
+  position: relative;
+  width: 1125px;
+  height: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+    .status_bar {
+        height: var(--status-bar-height);
+        width: 100%;
+    }

@@ -1,0 +1,58 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/material/material",
+        "pages/ranking/ranking",
+        "pages/simulator/simulator",
+        "pages/myTFT/myTFT"
+    ],
+    "subPackages": [
+        {
+            "root": "pages/chessDetail",
+            "pages": [
+                "chessDetail"
+            ]
+        },
+        {
+            "root": "pages/fettersDetail",
+            "pages": [
+                "fettersDetail"
+            ]
+        },
+        {
+            "root": "pages/lineupDetail",
+            "pages": [
+                "lineupDetail"
+            ]
+        }
+    ],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "#007AFF",
+        "borderStyle": "black",
+        "backgroundColor": "#F8F8F8",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "static/component.png",
+                "selectedIconPath": "static/componentHL.png",
+                "text": "阵容"
+            },
+            {
+                "pagePath": "pages/myTFT/myTFT",
+                "iconPath": "static/component.png",
+                "selectedIconPath": "static/componentHL.png",
+                "text": "我的"
+            }
+        ]
+    },
+    "preloadRule": {},
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

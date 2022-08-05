@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-section": "/components/uni-section/uni-section",
+    "uni-group": "/uni_modules/uni-group/components/uni-group/uni-group",
+    "adjust-order-dialog": "/components/AdjustOrderDialog",
+    "adjust-hex-list-dialog": "/components/AdjustHexListDialog",
+    "select-carry-dialog": "/components/SelectCarryDialog",
+    "adjust-hero-list-dialog": "/components/AdjustHeroListDialog",
+    "adjust-equip-list-dialog": "/components/AdjustEquipListDialog"
+  }
+}

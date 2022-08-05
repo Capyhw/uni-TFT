@@ -1,0 +1,1 @@
+<block wx:if="{{show&&stage!=='hide'}}"><view><view class="{{['tft-dialog-wrap',bind_class,stage]}}"><slot></slot><view class="disable-mask _i"></view></view></view></block>

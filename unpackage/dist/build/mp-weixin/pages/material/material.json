@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "资料",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "muqian-lazy-load": "/uni_modules/muqian-lazyLoad/components/muqian-lazyLoad/muqian-lazyLoad"
+  }
+}
